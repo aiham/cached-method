@@ -1,0 +1,10 @@
+{
+    "undef": true,
+    "mocha": true,
+    "node": true,
+    "browser": true,
+    "strict": true,
+    "globalstrict": true,
+    "newcap": false,
+    "sub": false
+}

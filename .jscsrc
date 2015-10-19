@@ -1,0 +1,9 @@
+{
+    "preset": "crockford",
+    "requireMultipleVarDecl": true,
+    "validateQuoteMarks": {
+        "mark": "'",
+        "escape": true
+    },
+    "requireCamelCaseOrUpperCaseIdentifiers": true
+}

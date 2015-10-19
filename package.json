@@ -1,0 +1,31 @@
+{
+  "name": "cached-method",
+  "version": "1.0.0",
+  "description": "Function wrapper that caches first result. Provides hooks to clear/enable/disable cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiham/cached-method.git"
+  },
+  "keywords": [
+    "cache",
+    "function",
+    "method",
+    "wrapper"
+  ],
+  "author": "Aiham Hammami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aiham/cached-method/issues"
+  },
+  "homepage": "https://github.com/aiham/cached-method#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.1",
+    "sinon-chai": "^2.8.0"
+  }
+}
